@@ -1,16 +1,16 @@
-### Hi there 👋
+##Tibor Szegő
+Welcome to my page, my name is Tibor and I'm a fresh alumni of Green Fox Academy. I'm specializing in full-stack and this is my progression in our after-course Huli program, where I'm sharpening my skills to become an even better candidate.
 
-<!--
-**szegot/szegot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Hire me
+LinkedIn: www.linkedin.com/in/tibor-szego-9558178b
 
-Here are some ideas to get you started:
+###Coding projects
+{project-name}: {link-to-repo}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Coding practice
+Hackerrank: https://www.hackerrank.com/szego_t
+
+Codewars: https://www.codewars.com/users/szegot
+
+###Interview tests
+Upload your solutions as files into interview-tests/ directory
