@@ -2,7 +2,7 @@
 Welcome to my page, my name is Tibor and I'm a fresh alumni of Green Fox Academy. I'm specializing in full-stack and this is my progression in our after-course Huli program, where I'm sharpening my skills to become an even better candidate.
 
 ---
-### Languages and Tools
+### :wrench: Languages and Tools
 <img align="left" alt="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
