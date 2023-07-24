@@ -4,7 +4,7 @@ Welcome to my page, my name is Tibor and I'm a fresh alumni of Green Fox Academy
 ---
 ### Skills
 <img align="left" alt="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-
+<br />
 
 ### Hire me
 LinkedIn: www.linkedin.com/in/tibor-szego-9558178b
