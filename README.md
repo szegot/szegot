@@ -1,6 +1,7 @@
 # Tibor Szegő
-Welcome to my page, my name is Tibor and I'm a fresh alumni of Green Fox Academy. I'm specializing in full-stack and this is my progression in our after-course Huli program, where I'm sharpening my skills to become an even better candidate. <br />
-I would like to deepen my acquired knowledge as a Full-Stack developer so that I can further shape my skills over time and use them as a data professional.
+I would like to deepen my knowledge acquired as a Full-Stack developer at the Green Fox Academy so that I can further shape my skills over time and use them as a data specialist.
+<br/>
+Prior to joining Green Fox academy I worked in the printing and signage industry. During my professional career as project manager, I gained experience in product management and maintaining relationships with the company's customers. I have always strived to acquire broad knowledge and I feel that programming opens up new and exciting areas for me.
 
 ---
 ### :wrench: Languages and Tools
