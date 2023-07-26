@@ -19,7 +19,7 @@ Prior to joining Green Fox academy I worked in the printing and signage industry
 LinkedIn: www.linkedin.com/in/tibor-szego-9558178b
 
 ### Coding projects
-{project-name}: {link-to-repo}
+Printing_order_management_and_production_monitoring_system: {link-to-repo}
 
 ### Coding practice
 Hackerrank: https://www.hackerrank.com/szego_t
