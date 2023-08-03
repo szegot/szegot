@@ -1,9 +1,5 @@
 # Tibor Szegő
-Welcome to my page, my name is Tibor and I'm a fresh alumni of Green Fox Academy.
-<br/>
-I would like to deepen my knowledge acquired as a Full-Stack developer at the Green Fox Academy so that I can further shape my skills over time and use them as a data analyst.
-<br/>
-Prior to joining Green Fox Academy I worked in the printing and signage industry. During my professional career as a project manager, I gained experience in product management and maintaining relationships with the company's customers. I have always strived to acquire broad knowledge and I feel that programming opens up new and exciting areas for me.
+Welcome to my page, my name is Tibor and I'm a fresh alumni of Green Fox Academy. Prior to joining Green Fox Academy, I worked in the printing and signage industry. During my professional career as a project manager, I gained experience in product management and maintaining relationships with the company's customers. I have always strived to acquire broad knowledge and I feel that programming opens up new and exciting areas for me.
 
 ---
 ### :wrench: Languages and Tools
