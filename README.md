@@ -26,5 +26,5 @@ Hackerrank: https://www.hackerrank.com/szego_t
 
 Codewars: https://www.codewars.com/users/szegot
 
-### Interview tests
-Upload your solutions as files into interview-tests/ directory
+<!-- ### Interview tests
+// Upload your solutions as files into interview-tests/ directory -->
