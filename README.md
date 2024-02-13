@@ -1,5 +1,5 @@
 # Tibor Szegő
-Welcome to my page, my name is Tibor and I'm a fresh alumni of Green Fox Academy. Prior to joining Green Fox Academy, I worked in the printing and signage industry. During my professional career as a project manager, I gained experience in product management and maintaining relationships with the company's customers. I have always strived to acquire broad knowledge and I feel that programming opens up new and exciting areas for me.
+Welcome to my page, my name is Tibor and I'm an alumni of Green Fox Academy. Prior to joining Green Fox Academy, I worked in the printing and signage industry. During my professional career as a project manager, I gained experience in product management and maintaining relationships with the company's customers. I have always strived to acquire broad knowledge and I feel that programming opens up new and exciting areas for me.
 
 ---
 ### :wrench: Languages and Tools
@@ -15,7 +15,7 @@ Welcome to my page, my name is Tibor and I'm a fresh alumni of Green Fox Academy
 LinkedIn: www.linkedin.com/in/tibor-szego-9558178b
 
 ### Coding projects
-Printing_order_management_and_production_monitoring_system: [{link-to-repo}](https://github.com/szegot/POM_and_Production_Monitoring_System)
+Printing_order_management_and_production_monitoring_system
 
 ### Coding practice
 Hackerrank: https://www.hackerrank.com/szego_t
